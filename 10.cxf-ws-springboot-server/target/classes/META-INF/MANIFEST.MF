@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: irene
+Build-Jdk: 14.0.2
+Implementation-Title: 10.cxf-ws-springboot-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cn.sm1234
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/10.cxf-ws-spri
+ ngboot-server/
+Created-By: Maven Integration for Eclipse
+
